@@ -1,0 +1,8 @@
+.userOutput {
+  width: 60%;
+  padding: 12px;
+  margin: 12px;
+  border: 2px solid firebrick;
+  background-color: whitesmoke;
+  text-align: center;
+}
